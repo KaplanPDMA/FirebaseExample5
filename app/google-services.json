@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "346935326428",
+    "firebase_url": "https://ptdipwt5-10b62.firebaseio.com",
+    "project_id": "ptdipwt5-10b62",
+    "storage_bucket": "ptdipwt5-10b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346935326428:android:b53984376a3ff32f",
+        "android_client_info": {
+          "package_name": "com.kaplan.pdma.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346935326428-h5kl4rcjs3i5gqjj1mev92o2faupgms4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "AIzaSyA1yJN7OFXp7VsMy8wtx_orzfSaps5KXxw"}],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
